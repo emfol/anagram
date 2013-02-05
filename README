@@ -1,0 +1,4 @@
+The present code constitutes a library completely written in ANSI C for working with anagrams. It is an implementation of the SEPA (Simple, Efficient Permutation Algorithm) algorithm developed by Jeffrey A. Johnson that is publicly available at the URL http://www.freewebs.com/permute/soda_submit.html. It was developed aiming simplicity, performance and small memory footprint making it extremely suitable for mobile applications.
+
+By Emanuel Fiuza de Oliveira
+Tue, 5 Feb 2013 15:52 -0300

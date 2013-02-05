@@ -1,0 +1,8 @@
+# ignore emacs tilde files
+*~
+
+# Mac OS X ".DS_Store" Files
+.DS_Store
+
+# Anagram files
+*.anagram
